@@ -1,4 +1,4 @@
-#!/usr/bin/python
+#!/usr/bin/env python3
 """Simple conditional statements - odd or even number"""
 
 number = int(input("Which number do you want to check? "))

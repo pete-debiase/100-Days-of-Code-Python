@@ -1,4 +1,4 @@
-#!/usr/bin/python
+#!/usr/bin/env python3
 """Split a bill between multiple people"""
 
 print("Welcome to Bill Calculator!\n")

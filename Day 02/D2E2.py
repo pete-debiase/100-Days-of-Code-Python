@@ -1,4 +1,4 @@
-#!/usr/bin/python
+#!/usr/bin/env python3
 """Mathematical operations - BMI calculator"""
 
 height = float(input("Enter your height in m: "))

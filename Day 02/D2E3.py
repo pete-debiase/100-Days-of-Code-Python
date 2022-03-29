@@ -1,4 +1,4 @@
-#!/usr/bin/python
+#!/usr/bin/env python3
 """Mathematical operations and f-strings"""
 
 HUMAN_LIFESPAN_YEARS = 90

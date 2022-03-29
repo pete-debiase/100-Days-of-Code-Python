@@ -1,4 +1,4 @@
-#!/usr/bin/python
+#!/usr/bin/env python3
 """Debugging leap year program"""
 
 year = int(input("Which year do you want to check?"))

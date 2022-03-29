@@ -1,4 +1,4 @@
-#!/usr/bin/python
+#!/usr/bin/env python3
 """Nested lists - treasure map game"""
 
 row1 = ['⬜','⬜','⬜']

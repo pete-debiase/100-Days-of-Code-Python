@@ -1,4 +1,4 @@
-#!/usr/bin/python
+#!/usr/bin/env python3
 """Functions with parameters - paint area calculator"""
 
 import math

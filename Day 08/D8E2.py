@@ -1,4 +1,4 @@
-#!/usr/bin/python
+#!/usr/bin/env python3
 """Functions - prime number checker"""
 
 def is_prime(n):

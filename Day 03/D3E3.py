@@ -1,4 +1,4 @@
-#!/usr/bin/python
+#!/usr/bin/env python3
 """Conditional statements - leap year determination"""
 
 import calendar

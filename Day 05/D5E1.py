@@ -1,4 +1,4 @@
-#!/usr/bin/python
+#!/usr/bin/env python3
 """For loops - calculating average of list without convenience functions"""
 
 from statistics import mean

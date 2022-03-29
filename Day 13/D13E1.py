@@ -1,4 +1,4 @@
-#!/usr/bin/python
+#!/usr/bin/env python3
 """Debugging odd or even program"""
 
 number = int(input("Which number do you want to check?"))

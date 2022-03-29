@@ -1,4 +1,4 @@
-#!/usr/bin/python
+#!/usr/bin/env python3
 """Print length of arbitrary user input"""
 
 user_input = input("What is your name?")

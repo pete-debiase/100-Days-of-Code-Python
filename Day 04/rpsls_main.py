@@ -1,4 +1,4 @@
-#!/usr/bin/python
+#!/usr/bin/env python3
 """Rock paper scissors lizard Spock game"""
 
 import random

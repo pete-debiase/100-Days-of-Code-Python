@@ -1,4 +1,4 @@
-#!/usr/bin/python
+#!/usr/bin/env python3
 """Generate a creative band name"""
 
 print("Welcome to Band Name Generator!\n")

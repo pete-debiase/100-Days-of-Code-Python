@@ -1,4 +1,4 @@
-#!/usr/bin/python
+#!/usr/bin/env python3
 """Constants for Blackjack game"""
 
 ranks_numbers = ['2', '3', '4', '5', '6', '7', '8', '9', '10']

@@ -1,4 +1,4 @@
-#!/usr/bin/python
+#!/usr/bin/env python3
 """Conditionals + string operations - silly love calculator"""
 
 def count_freq_score(test_string, input_string):

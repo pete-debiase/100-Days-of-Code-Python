@@ -1,4 +1,4 @@
-#!/usr/bin/python
+#!/usr/bin/env python3
 """Functions with outputs - days in specified month"""
 
 MONTH_DAYS = {1: 31,

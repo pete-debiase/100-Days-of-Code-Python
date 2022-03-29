@@ -1,4 +1,4 @@
-#!/usr/bin/python
+#!/usr/bin/env python3
 """Simple debugging of a script with calls to `print()`"""
 
 print("Day 1 - String Manipulation")

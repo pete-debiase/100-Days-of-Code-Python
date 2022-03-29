@@ -1,4 +1,4 @@
-#!/usr/bin/python
+#!/usr/bin/env python3
 """Randomization + lists - bill Russian roulette"""
 
 import random

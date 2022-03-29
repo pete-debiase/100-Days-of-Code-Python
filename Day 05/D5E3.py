@@ -1,4 +1,4 @@
-#!/usr/bin/python
+#!/usr/bin/env python3
 """For loops - add even numbers from 1 to 100"""
 
 total = 0

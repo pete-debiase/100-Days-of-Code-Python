@@ -1,4 +1,4 @@
-#!/usr/bin/python
+#!/usr/bin/env python3
 """Simple text-based choose your own adventure game"""
 
 print('''

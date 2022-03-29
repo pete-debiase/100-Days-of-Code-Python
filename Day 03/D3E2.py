@@ -1,4 +1,4 @@
-#!/usr/bin/python
+#!/usr/bin/env python3
 """Conditional statements - BMI calculator 2.0"""
 
 height = float(input("Enter your height in m: "))

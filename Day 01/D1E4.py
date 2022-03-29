@@ -1,4 +1,4 @@
-#!/usr/bin/python
+#!/usr/bin/env python3
 """Simple variable manipulation"""
 
 # Get user input

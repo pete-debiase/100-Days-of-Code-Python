@@ -1,4 +1,4 @@
-#!/usr/bin/python
+#!/usr/bin/env python3
 """Definitions of the RPSLS game signals"""
 
 from rpsls_resources import *

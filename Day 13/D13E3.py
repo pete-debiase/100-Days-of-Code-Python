@@ -1,4 +1,4 @@
-#!/usr/bin/python
+#!/usr/bin/env python3
 """Debugging FizzBuzz program"""
 
 for number in range(1, 101):

@@ -1,4 +1,4 @@
-#!/usr/bin/python
+#!/usr/bin/env python3
 """Conditionals - pizza bill calculator"""
 
 print("Welcome to Python Pizza Deliveries!")

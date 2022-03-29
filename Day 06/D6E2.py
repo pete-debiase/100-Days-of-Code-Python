@@ -1,4 +1,4 @@
-#!/usr/bin/python
+#!/usr/bin/env python3
 """While loops with Reeborg's World"""
 
 # Solution to Reeborg's World Hurdle 2

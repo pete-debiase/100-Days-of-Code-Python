@@ -1,4 +1,4 @@
-#!/usr/bin/python
+#!/usr/bin/env python3
 """For loops - FizzBuzz"""
 
 for i in range(1, 101):

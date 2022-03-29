@@ -1,4 +1,4 @@
-#!/usr/bin/python
+#!/usr/bin/env python3
 """Resources for RPSLS game"""
 
 # Game results

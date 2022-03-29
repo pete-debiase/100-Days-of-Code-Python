@@ -1,4 +1,4 @@
-#!/usr/bin/python
+#!/usr/bin/env python3
 """Reeborg's World Maze"""
 
 def turn_right():
